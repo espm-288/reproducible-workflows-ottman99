@@ -37,3 +37,15 @@ library(tidyverse)
 
 mtcars |> ggplot(aes(cyl, mpg)) + geom_point()
 ```
+
+
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+
+
+
+```
+
+
