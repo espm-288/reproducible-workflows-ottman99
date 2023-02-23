@@ -5,6 +5,7 @@ editor: visual
 author: Mark Wheeler
 ---
 
+Manual Commit
 
 This is a change
 
